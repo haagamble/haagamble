@@ -16,7 +16,7 @@ I have a variety of hobbies and interests:
 - 🎲 **Board Games** – Current favourite: Wingspan.
 - 📷 **Content Creation** – Making engaging content for social media.
 - 🎵 **Music** - Listening to and playing.
-- 💛 **Spending time with friends** - 
+- 💛 **Spending time with friends** - I love people.
 
 ## 🛠️ What You'll Find Here
 This repository serves as a **landing page** for my GitHub profile. Expect occasional updates as I continue to start projects that may never get finished.
